@@ -1,5 +1,3 @@
-/profile/README.md
-
 # JobSpark
 **Everyone Can Shine**
 
