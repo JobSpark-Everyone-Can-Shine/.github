@@ -1,35 +1,31 @@
 <br />
 <p align="center">
-  
-  <a href="https://github.com/JobSpark-Everyone-Can-Shine">
-    <img src="https://ibb.co.com/1bB1tdn" alt="JobSpark Logo" />
-  </a>
-  
+  <a href='https://github.com/JobSpark-Everyone-Can-Shine'><img src='https://ibb.co.com/1bB1tdn' type='image' alt="Logo"></a>
+
   <h1 align="center">JobSpark</h1>
-  <h2 align="center">Everyone Can Shine</h2>
-
+  <h2 align="center">
+  Everyone Can Shine</h2>
+  
   <p align="center">
-    This project is developed as part of the <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy</strong></a>, 
-    a program led by <strong>Google</strong>, <strong>Tokopedia</strong>, <strong>Gojek</strong>, and <strong>Traveloka</strong>.
+  This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a>
+   Program.
     <br />
-    <a href="https://github.com/JobSpark-Everyone-Can-Shine"><strong>Explore the documentation »</strong></a>
+    <a href="https://github.com/JobSpark-Everyone-Can-Shine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    
-    
     <a href="#">Project Brief</a>
-    <a href="#">JobSpark APK Link</a>
-    <a href="#">Video Presentation</a>
-    <a href="#">Presentation Slide</a>
-    <br/>
-    <br/>
-
-    <!-- Team Information -->
+    ·
+    <a href=" ">Journey APK Link</a>
+    ·
+    <a href=" ">Video Presentation</a>
+    ·
+    <a href=" ">Presentation Slide</a>
+    ·
+    <br />
     © C242 - PS247 Bangkit Capstone Team
   </p>
 </p>
-<br />
-
+<br>
 
 JobSpark is a job platform aimed at helping the Down Syndrome community in Indonesia become more productive by securing meaningful employment. The platform offers personalized job suggestions and promotes workplace diversity. JobSpark makes it easier for employers to find suitable profiles and provides support to companies that want to implement diversity and inclusivity within their teams. The goal is to bridge the gap between job seekers with Down Syndrome and inclusive companies.
 
