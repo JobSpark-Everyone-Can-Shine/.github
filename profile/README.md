@@ -1,8 +1,6 @@
 <br />
 <p align="center">
-  <h1 align="center">JobSpark✨</h1>
-  <h2 align="center">
-  Everyone Can Shine</h2>
+  <h1 align="center">JobSpark✨<br> Everyone can shine</h1>
   
   <p align="center">
   This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a>
