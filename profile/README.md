@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <h1 align="center">JobSpark</h1>
+  <h1 align="center">JobSpark✨</h1>
   <h2 align="center">
   Everyone Can Shine</h2>
   
