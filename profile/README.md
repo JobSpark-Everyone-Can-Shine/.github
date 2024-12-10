@@ -1,7 +1,5 @@
 <br />
 <p align="center">
-  <a href='https://github.com/JobSpark-Everyone-Can-Shine'><img src='https://ibb.co.com/1bB1tdn' type='image' alt="Logo"></a>
-
   <h1 align="center">JobSpark</h1>
   <h2 align="center">
   Everyone Can Shine</h2>
