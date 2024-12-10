@@ -15,7 +15,7 @@
     <br />
     <a href="#">Project Brief</a>
     ·
-    <a href=" ">Journey APK Link</a>
+    <a href=" ">JobSpark APK Link</a>
     ·
     <a href=" ">Video Presentation</a>
     ·
