@@ -16,7 +16,7 @@
     <a href="https://github.com/JobSpark-Everyone-Can-Shine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/drive/u/1/folders/1_4FGamBbzZAhMcEndIDTAGK6RD_U_cIm">JobSpark APK Link</a>
+    <a href="https://drive.google.com/drive/folders/1ecNJfqPr8kDGXxSzIo8gJK7Op-MwSAeS">JobSpark APK Link</a>
     ·
     <a href="https://youtu.be/OtyRQa9ZAtk">Video Presentation</a>
     ·
