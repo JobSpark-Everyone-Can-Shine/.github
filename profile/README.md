@@ -3,10 +3,13 @@
   <h1 align="center">✨ JobSpark ✨<br> Everyone can shine</h1>
 
   <div align="center">
+  <br>
   <a href="Banner">
-    <img src='https://storage.googleapis.com/jobspark_public/preview.jpg' style='width : 350px'/>
+    <img src='https://storage.googleapis.com/jobspark_public/preview.jpg' style='width : 600px'/>
   </a>
-
+  <br>
+  <br>
+    
   <p align="center">
   <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a>
    Program.
