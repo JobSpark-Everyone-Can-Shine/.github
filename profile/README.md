@@ -30,8 +30,11 @@
 </p>
 <br>
 
+<div align="center">
 JobSpark is a job platform aimed at helping the Down Syndrome community in Indonesia become more productive by securing meaningful employment. The platform offers personalized job suggestions and promotes workplace diversity. JobSpark makes it easier for employers to find suitable profiles and provides support to companies that want to implement diversity and inclusivity within their teams. The goal is to bridge the gap between job seekers with Down Syndrome and inclusive companies.
+</div>
 
+<br>
 <div align="center">
 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -44,7 +47,7 @@ JobSpark is a job platform aimed at helping the Down Syndrome community in Indon
 
 ---
 
-## Project Team Members
+## 🌟 Project Team Members 🌟
 
 | No  | Name                           | Bangkit ID   | Learning Path      | University                          |
 | --- | ------------------------------ | ------------ | ------------------ | ----------------------------------- |
@@ -57,7 +60,13 @@ JobSpark is a job platform aimed at helping the Down Syndrome community in Indon
 | 7   | Tubagus Taufiq Nurdin          | A297B4KY4302 | Mobile Development | UPN "Veteran" Yogyakarta            |
 
 ---
-## Tech Stack
+
+# 📁 Repository
+- [Machine Learning Repository](https://github.com/JobSpark-Everyone-Can-Shine/Jobspark-ML)
+- [Cloud Computing Repository](https://github.com/JobSpark-Everyone-Can-Shine/Jobspark-CC)
+- [Mobile Development Repository](https://github.com/JobSpark-Everyone-Can-Shine/Jobspark-MD)
+  
+## 🛠️ Tech Stack
 
 - Kotlin
 - Tensorflow
@@ -69,14 +78,35 @@ JobSpark is a job platform aimed at helping the Down Syndrome community in Indon
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
-Setting up project for local usage.
-1. Clone or Download this repository
-    ```shell
+Follow these steps to set up the project locally:
+
+### 1. Clone or Download the Repository
+
+- **Clone with Git**:
+    Open your terminal and run the following command:
+    ```bash
     git clone https://github.com/JobSpark-Everyone-Can-Shine/
     ```
-2. Open using Android Studio
-3. Build gradle, or change it to your preferences, recomended version 8.x.x
-4. Emulate using android phone or emulator
-   
+
+- **Download as ZIP**:
+    Alternatively, you can download the repository as a ZIP file from GitHub by clicking the "Code" button, then "Download ZIP". Extract the ZIP file to your desired folder.
+
+### 2. Open the Project in Android Studio
+
+- After cloning or downloading the project, open **Android Studio**.
+- Select **Open an existing Android Studio project** and navigate to the folder where you extracted or cloned the repository.
+
+### 3. Set Up Gradle and SDK
+
+- Make sure Android Studio is set up with the required SDKs. If you don't have the necessary Android SDK, Android Studio will prompt you to download it.
+- We recommend using **Gradle version 8.x.x** for compatibility.
+
+### 4. Build the Project
+
+- Once the project is opened in Android Studio, click on **Build** in the top menu, then select **Make Project** to build the project.
+
+### 5. Run the App
+
+- After the build is complete, you can run the app on an emulator or connected device by clicking the **Run** button in Android Studio.
