@@ -1,15 +1,14 @@
 <br />
 <p align="center">
-  <h1 align="center">✨ JobSpark ✨<br> Everyone can shine</h1>
-
+  <h1 align="center">✨ JobSpark ✨<br> Everyone can shine <br>(C242-PS247)</h1>
   <div align="center">
-  <br>
-  <a href="Banner">
-    <img src='https://storage.googleapis.com/jobspark_public/preview.jpg' style='width : 600px'/>
+  <a href="Preview">
+    <img src="https://storage.googleapis.com/jobspark_public/preview2.jpg" alt="Preview">
   </a>
-  <br>
-  <br>
-    
+  </div>  
+    <br />
+
+  
   <p align="center">
   <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a>
    Program.
@@ -33,23 +32,15 @@
 
 JobSpark is a job platform aimed at helping the Down Syndrome community in Indonesia become more productive by securing meaningful employment. The platform offers personalized job suggestions and promotes workplace diversity. JobSpark makes it easier for employers to find suitable profiles and provides support to companies that want to implement diversity and inclusivity within their teams. The goal is to bridge the gap between job seekers with Down Syndrome and inclusive companies.
 
----
+<div align="center">
 
-## Team ID
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**C242-PS247**
-
----
-
-## TECH STACK
-
-- Kotlin
-- Tensorflow
-- Node JS
-- Express JS
-- Fast API
-- Python
-- PostgreSQL Database
+</div>
 
 ---
 
@@ -66,5 +57,26 @@ JobSpark is a job platform aimed at helping the Down Syndrome community in Indon
 | 7   | Tubagus Taufiq Nurdin          | A297B4KY4302 | Mobile Development | UPN "Veteran" Yogyakarta            |
 
 ---
+## Tech Stack
 
+- Kotlin
+- Tensorflow
+- Node JS
+- Express JS
+- Fast API
+- Python
+- PostgreSQL Database
 
+---
+
+## Getting Started
+
+Setting up project for local usage.
+1. Clone or Download this repository
+    ```shell
+    git clone https://github.com/JobSpark-Everyone-Can-Shine/
+    ```
+2. Open using Android Studio
+3. Build gradle, or change it to your preferences, recomended version 8.x.x
+4. Emulate using android phone or emulator
+   
