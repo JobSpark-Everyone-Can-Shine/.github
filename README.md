@@ -2,10 +2,9 @@
 <p align="center">
   <h1 align="center">✨ JobSpark ✨<br> Everyone can shine</h1>
 
-  <div style='display:flex;justify-content:center;'>
-    <img src='https://storage.googleapis.com/jobspark_public/preview2.jpg' style='width : 350px'/>
-
-  </div>
+  <center>
+    <img src='https://storage.googleapis.com/jobspark_public/preview.jpg' style='width : 350px'/>
+  </center>
     <br />
 
   
