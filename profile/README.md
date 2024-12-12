@@ -21,7 +21,6 @@
     <a href="https://youtu.be/OtyRQa9ZAtk">Video Presentation</a>
     ·
     <a href="https://www.canva.com/design/DAGYcbZgB8Y/gGjqsn7rAgDj0jefOS0BWA/view?utm_content=DAGYcbZgB8Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7b3174ded8">Presentation Slide</a>
-    ·
     <br />
     © C242 - PS247 Bangkit Capstone Team
   </p>
