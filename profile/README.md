@@ -16,13 +16,11 @@
     <a href="https://github.com/JobSpark-Everyone-Can-Shine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">Project Brief</a>
+    <a href="https://drive.google.com/drive/u/1/folders/1_4FGamBbzZAhMcEndIDTAGK6RD_U_cIm">JobSpark APK Link</a>
     ·
-    <a href=" ">JobSpark APK Link</a>
+    <a href="https://youtu.be/OtyRQa9ZAtk">Video Presentation</a>
     ·
-    <a href=" ">Video Presentation</a>
-    ·
-    <a href=" ">Presentation Slide</a>
+    <a href="https://www.canva.com/design/DAGYcbZgB8Y/gGjqsn7rAgDj0jefOS0BWA/view?utm_content=DAGYcbZgB8Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7b3174ded8">Presentation Slide</a>
     ·
     <br />
     © C242 - PS247 Bangkit Capstone Team
